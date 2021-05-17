@@ -1,0 +1,92 @@
+---------------------------------------------
+              Output for Sample - f                  
+---------------------------------------------
+
+total number of words = 3054936
+total number of distinct words = 49793
+popular_threshold_word = 2490
+common_threshold_l_word = 23651
+common_threshold_u_word = 26142
+rare_threshold_word = 47303
+---------------------------------------------
+
+Popular words 
+      rank       Word  Frequency
+0        1        the     188343
+1        2        and     130206
+2        3         of     103099
+3        4         to      77088
+4        5          a      56455
+...    ...        ...        ...
+2485  2486      tenth        102
+2486  2487     terror        102
+2487  2488  arguments        101
+2488  2489   arranged        101
+2489  2490    article        101
+
+[2490 rows x 3 columns]
+
+Common words 
+       rank          Word  Frequency
+0     23651  marvellously          3
+1     23652   marvelously          3
+2     23653         marys          3
+3     23654   masculinity          3
+4     23655         massa          3
+...     ...           ...        ...
+2487  26138       cannons          2
+2488  26139     canonical          2
+2489  26140  canonization          2
+2490  26141       canonry          2
+2491  26142          cant          2
+
+[2492 rows x 3 columns]
+
+Rare words 
+       rank       Word  Frequency
+0     47303     turvey          1
+1     47304  turvyisms          1
+2     47305   tusculan          1
+3     47306      tusks          1
+4     47307     tusser          1
+...     ...        ...        ...
+2486  49789     “’usha          1
+2487  49790        “’y          1
+2488  49791         ”’          1
+2489  49792         ⅝”          1
+2490  49793         ⅞”          1
+
+[2491 rows x 3 columns]
+
+---------------------------------------------
+
+total number of distinct letters = 72
+popular_threshold_letters = 4
+common_threshold_l_letters = 34
+common_threshold_u_letters = 38
+rare_threshold_letters = 68
+---------------------------------------------
+
+Popular Letters 
+   Rank Letter  Frequency
+0     1      e    1609665
+1     2      t    1205435
+2     3      a    1034449
+3     4      o     985495
+
+Common Letters 
+   Rank Letter  Frequency
+0    34      ñ        143
+1    35     \t        129
+2    36      ‘        119
+3    37      é        119
+4    38      á        102
+
+Rare Letters 
+   Rank Letter  Frequency
+0    68      ⅝          1
+1    69                1
+2    70      ´          1
+3    71      ―          1
+4    72      ⅞          1
+

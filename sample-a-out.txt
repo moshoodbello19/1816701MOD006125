@@ -1,0 +1,58 @@
+---------------------------------------------
+              Output for Sample - a                  
+---------------------------------------------
+
+total number of words = 53
+total number of distinct words = 47
+popular_threshold_word = 3
+common_threshold_l_word = 22
+common_threshold_u_word = 25
+rare_threshold_word = 44
+---------------------------------------------
+
+Popular words 
+   rank   Word  Frequency
+0     1  spark          3
+1     2    the          3
+2     3     an          2
+
+Common words 
+   rank       Word  Frequency
+0    22  framework          1
+1    23    general          1
+2    24        has          1
+3    25   implicit          1
+
+Rare words 
+   rank        Word  Frequency
+0    44  university          1
+1    45         was          1
+2    46       which          1
+3    47        with          1
+
+---------------------------------------------
+
+total number of distinct letters = 22
+popular_threshold_letters = 2
+common_threshold_l_letters = 10
+common_threshold_u_letters = 12
+rare_threshold_letters = 20
+---------------------------------------------
+
+Popular Letters 
+   Rank Letter  Frequency
+0     1      e         36
+1     2      a         35
+
+Common Letters 
+   Rank Letter  Frequency
+0    10      p         15
+1    11      c         13
+2    12      d         12
+
+Rare Letters 
+   Rank Letter  Frequency
+0    20      b          4
+1    21      y          3
+2    22      v          3
+

@@ -1,0 +1,50 @@
+---------------------------------------------
+              Output for Sample - e                  
+---------------------------------------------
+
+total number of words = 32
+total number of distinct words = 15
+popular_threshold_word = 1
+common_threshold_l_word = 7
+common_threshold_u_word = 8
+rare_threshold_word = 14
+---------------------------------------------
+
+Popular words 
+   rank Word  Frequency
+0     1   ab          8
+
+Common words 
+   rank Word  Frequency
+0     7    a          1
+1     8   bb          1
+
+Rare words 
+   rank Word  Frequency
+0    14   qq          1
+1    15  £ff          1
+
+---------------------------------------------
+
+total number of distinct letters = 12
+popular_threshold_letters = 1
+common_threshold_l_letters = 5
+common_threshold_u_letters = 7
+rare_threshold_letters = 11
+---------------------------------------------
+
+Popular Letters 
+   Rank Letter  Frequency
+0     1      b         13
+
+Common Letters 
+   Rank Letter  Frequency
+0     5      c          4
+1     6      d          4
+2     7      h          3
+
+Rare Letters 
+   Rank Letter  Frequency
+0    11      r          1
+1    12      k          1
+

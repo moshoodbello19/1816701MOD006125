@@ -1,0 +1,90 @@
+---------------------------------------------
+              Output for Sample - g                  
+---------------------------------------------
+
+total number of words = 2186595
+total number of distinct words = 41566
+popular_threshold_word = 2079
+common_threshold_l_word = 19743
+common_threshold_u_word = 21823
+rare_threshold_word = 39487
+---------------------------------------------
+
+Popular words 
+      rank     Word  Frequency
+0        1      the      85532
+1        2      and      71582
+2        3       to      58023
+3        4       of      53055
+4        5        i      46307
+...    ...      ...        ...
+2074  2075  hearted         96
+2075  2076  honesty         96
+2076  2077   houses         96
+2077  2078   hubert         96
+2078  2079  iachimo         96
+
+[2079 rows x 3 columns]
+
+Common words 
+       rank           Word  Frequency
+0     19743          resty          3
+1     19744         retail          3
+2     19745      retainers          3
+3     19746       retentio          3
+4     19747      reticence          3
+...     ...            ...        ...
+2076  21819  deterioration          2
+2077  21820       deterred          2
+2078  21821      deucalion          2
+2079  21822           deus          2
+2080  21823           deux          2
+
+[2081 rows x 3 columns]
+
+Rare words 
+       rank              Word  Frequency
+0     39487          undispos          1
+1     39488        undisputed          1
+2     39489   undistinguished          1
+3     39490  undistinguishing          1
+4     39491       undividable          1
+...     ...               ...        ...
+2075  41562            “‘when          1
+2076  41563           “‘where          1
+2077  41564           “‘would          1
+2078  41565            “‘your          1
+2079  41566            ”—that          1
+
+[2080 rows x 3 columns]
+
+---------------------------------------------
+
+total number of distinct letters = 46
+popular_threshold_letters = 3
+common_threshold_l_letters = 21
+common_threshold_u_letters = 25
+rare_threshold_letters = 43
+---------------------------------------------
+
+Popular Letters 
+   Rank Letter  Frequency
+0     1      e    1103156
+1     2      t     806660
+2     3      o     729983
+
+Common Letters 
+   Rank Letter  Frequency
+0    21      v      91213
+1    22      k      75097
+2    23      x      15172
+3    24      j      12352
+4    25      q      11640
+
+Rare Letters 
+   Rank Letter  Frequency
+0    43      ê          2
+1    44      œ          1
+2    45      ô          1
+3    46      –          1
+
